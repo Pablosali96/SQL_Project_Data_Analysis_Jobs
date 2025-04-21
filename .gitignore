@@ -1,1 +1,11 @@
 .vscode/settings.json
+all_folders/csv_files/company_dim.csv
+all_folders/csv_files/job_postings_fact.csv
+all_folders/csv_files/skills_dim.csv
+all_folders/csv_files/skills_job_dim.csv
+all_folders/sql_load/1_create_database.sql
+all_folders/sql_load/2_create_tables.sql
+all_folders/sql_load/3_modify_tables.sql
+all_folders/__MACOSX/sql_load/._3_modify_tables.sql
+all_folders/__MACOSX/csv_files/._.DS_Store
+all_folders/csv_files/.DS_Store
